@@ -3,6 +3,7 @@
 <h3> desde el puto ansible </h3>
 <h3> so what!!!! </h3>
 <h4> y si desde ansible bitches </h4>
-<h5> y desde los playbooks </h5> 
+<h5> y desde los playbooks </h5>
+<h6> ahora playbooks con ansible y deploy CD </h6> 
 
 
