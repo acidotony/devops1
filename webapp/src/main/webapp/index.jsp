@@ -1,4 +1,4 @@
-<h1> Hellocha, Welcome to Simple DevOps Project !!   </h1>
+<h1> Hellocha, Welcome to Simple DevOps Proyecto !!   </h1>
 <h2> It's me motherfuckers!!! </h2>
 <h3> desde el puto ansible por valaxy tecnologias </h3>
 <h3> so what you wanna want!!!! </h3>
